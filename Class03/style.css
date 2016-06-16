@@ -1,0 +1,15 @@
+.container {
+	background-color: gray;
+	/*height: 200px;*/
+	padding: 10px;
+	margin: 0 auto;
+	width: 90%;
+}
+
+.common {
+	width:90%;
+	height: 100px;
+	background-color: red;
+	margin: 10px;
+	Margin-left: 5%;
+}
